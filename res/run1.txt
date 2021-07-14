@@ -1,0 +1,81 @@
+Bob is picking items from the chest
+Item discarded : Helmets of Wrath, Item picked : Visors of vision
+Character after equipping all items : Name : Bob, Basic attack : 12; Basic defense : 15; Total attack : 260; Total defense : 292; HeadGear : Visors of vision; FootWear : Boots of Lightening; HandGear : Rings of Saturn, Ice, Saturn, Strength, Mordor, Poise, Poise and Lightening; Jewelry: Gold of Smaug, Flames, Speed, Almandine, Heft, Madness, Lannisters and Madness.
+Alice is picking items from the chest
+Item discarded : Sneakers of Cytorrak, Item picked : HoverBoard of Madness
+Item discarded : HoverBoard of Madness, Item picked : Boots of Lightening
+Character after equipping all items : Name : Alice, Basic attack : 4; Basic defense : 25; Total attack : 322; Total defense : 166; HeadGear : Cape of doom; FootWear : HoverBoard of Madness and Lightening; HandGear : Gauntlets of Poise, Flames, Strength, Lightening, Madness, Mordor and Doom; Jewelry: Diamond of Almandine, Strength, Lightening, Speed, Tyrells, Ice and Ice.
+******************************
+The match was won by Alice
+******************************
+Press Y for a rematch.
+Y
+Bob is picking items from the chest
+Item discarded : Visors of vision, Item picked : Visors of vision
+Item discarded : Gauntlets of Mordor, Item picked : Gloves of Lightening
+Item discarded : Gauntlets of Poise, Item picked : Rings of Saturn
+Item discarded : Gauntlets of Poise, Item picked : Gloves of Lightening
+Item discarded : Boots of Lightening, Item picked : Boots of Lightening
+Item discarded : Gauntlets of Ice, Item picked : Rings of Madness
+Item discarded : Boots of Lightening, Item picked : Boots of Lightening
+Character after equipping all items : Name : Bob, Basic attack : 12; Basic defense : 15; Total attack : 567; Total defense : 221; HeadGear : Visors of vision; FootWear : Boots of Lightening and Lightening; HandGear : Rings of Strength, Strength, Saturn, Saturn, Saturn, Saturn, Lightening, Lightening, Lightening and Madness; Jewelry: Gold of Smaug, Flames, Speed, Almandine, Heft, Madness, Lannisters, Madness, Lightening, Tyrells, Venus and Smaug.
+Alice is picking items from the chest
+Item discarded : HoverBoard of Madness, Item picked : Boots of Venus
+Item discarded : Gloves of Doom, Item picked : Rings of Strength
+Item discarded : Gauntlets of Mordor, Item picked : Rings of Light
+Item discarded : Gauntlets of Poise, Item picked : Rings of Madness
+Item discarded : Boots of Venus, Item picked : Sandals of Strength
+Item discarded : Sandals of Strength, Item picked : Boots of Lightening
+Item discarded : Rings of Light, Item picked : Gloves of Speed
+Item discarded : Gauntlets of Ice, Item picked : Rings of Lightening
+Item discarded : Gauntlets of Ice, Item picked : Rings of Flames
+Item discarded : Rings of Strength, Item picked : Rings of Flames
+Character after equipping all items : Name : Alice, Basic attack : 4; Basic defense : 25; Total attack : 641; Total defense : 185; HeadGear : Cape of doom; FootWear : Boots of Lightening and Lightening; HandGear : Rings of Strength, Speed, Flames, Flames, Lightening, Lightening, Madness, Madness, Madness and Flames; Jewelry: Diamond of Almandine, Strength, Lightening, Speed, Tyrells, Ice, Ice, Almandine, Flames and Ice.
+******************************
+This match was a draw.
+******************************
+Press Y for a rematch.
+Y
+Bob is picking items from the chest
+Item discarded : Rings of Strength, Item picked : Gloves of Speed
+Item discarded : Visors of vision, Item picked : Visors of vision
+Item discarded : Rings of Strength, Item picked : Rings of Flames
+Character after equipping all items : Name : Bob, Basic attack : 12; Basic defense : 15; Total attack : 633; Total defense : 288; HeadGear : Visors of vision; FootWear : Boots of Lightening and Lightening; HandGear : Rings of Saturn, Saturn, Saturn, Saturn, Speed, Lightening, Lightening, Lightening, Madness and Flames; Jewelry: Gold of Smaug, Flames, Speed, Almandine, Heft, Madness, Lannisters, Madness, Lightening, Tyrells, Venus, Smaug, Muur, Heft, Tyrells, Lannisters, Muur, Madness and Heft.
+Alice is picking items from the chest
+Item discarded : Cape of doom, Item picked : helmets of Frost
+Item discarded : Rings of Strength, Item picked : Rings of Madness
+Item discarded : Gloves of Speed, Item picked : Rings of Flames
+Item discarded : Rings of Flames, Item picked : Rings of Lightening
+Character after equipping all items : Name : Alice, Basic attack : 4; Basic defense : 25; Total attack : 805; Total defense : 259; HeadGear : helmets of Frost; FootWear : Boots of Lightening and Lightening; HandGear : Rings of Flames, Flames, Flames, Lightening, Lightening, Lightening, Madness, Madness, Madness and Madness; Jewelry: Diamond of Almandine, Strength, Lightening, Speed, Tyrells, Ice, Ice, Almandine, Flames, Ice, Almandine, Strength, Muur, Venus, Ice and Agate.
+******************************
+The match was won by Bob
+******************************
+Press Y for a rematch.
+Y
+Bob is picking items from the chest
+Item discarded : Rings of Saturn, Item picked : Gloves of Lightening
+Item discarded : Boots of Lightening, Item picked : Boots of Lightening
+Item discarded : Visors of vision, Item picked : Visors of vision
+Item discarded : Rings of Saturn, Item picked : Rings of Flames
+Character after equipping all items : Name : Bob, Basic attack : 12; Basic defense : 15; Total attack : 686; Total defense : 365; HeadGear : Visors of vision; FootWear : Boots of Lightening and Lightening; HandGear : Rings of Saturn, Saturn, Speed, Flames, Flames, Lightening, Lightening, Lightening, Lightening and Madness; Jewelry: Gold of Smaug, Flames, Speed, Almandine, Heft, Madness, Lannisters, Madness, Lightening, Tyrells, Venus, Smaug, Muur, Heft, Tyrells, Lannisters, Muur, Madness, Heft, Light, Light, Venus, Light, Lannisters and Tyrells.
+Alice is picking items from the chest
+Item discarded : Rings of Flames, Item picked : Gloves of Lightening
+Item discarded : Rings of Flames, Item picked : Rings of Lightening
+Item discarded : Rings of Flames, Item picked : Gloves of Lightening
+Character after equipping all items : Name : Alice, Basic attack : 4; Basic defense : 25; Total attack : 932; Total defense : 351; HeadGear : helmets of Frost; FootWear : Boots of Lightening and Lightening; HandGear : Gloves of Lightening, Lightening, Lightening, Lightening, Lightening, Madness, Madness, Madness, Madness and Lightening; Jewelry: Diamond of Almandine, Strength, Lightening, Speed, Tyrells, Ice, Ice, Almandine, Flames, Ice, Almandine, Strength, Muur, Venus, Ice, Agate, Cytorrak, Almandine, Madness, Lannisters, Ice, Flames, Flames, Heft and Flames.
+******************************
+The match was won by Bob
+******************************
+Press Y for a rematch.
+Y
+Bob is picking items from the chest
+Item discarded : Visors of vision, Item picked : Visors of vision
+Item discarded : Boots of Lightening, Item picked : Boots of Lightening
+Item discarded : Rings of Saturn, Item picked : Rings of Lightening
+Character after equipping all items : Name : Bob, Basic attack : 12; Basic defense : 15; Total attack : 848; Total defense : 345; HeadGear : Visors of vision; FootWear : Boots of Lightening and Lightening; HandGear : Rings of Saturn, Speed, Flames, Flames, Lightening, Lightening, Lightening, Lightening, Lightening and Madness; Jewelry: Gold of Smaug, Flames, Speed, Almandine, Heft, Madness, Lannisters, Madness, Lightening, Tyrells, Venus, Smaug, Muur, Heft, Tyrells, Lannisters, Muur, Madness, Heft, Light, Light, Venus, Light, Lannisters, Tyrells, Speed, Agate, Cytorrak, Venus, Cytorrak and Tyrells.
+Alice is picking items from the chest
+Item discarded : helmets of Frost, Item picked : Visors of vision
+Character after equipping all items : Name : Alice, Basic attack : 4; Basic defense : 25; Total attack : 979; Total defense : 465; HeadGear : Visors of vision; FootWear : Boots of Lightening and Lightening; HandGear : Gloves of Lightening, Lightening, Lightening, Lightening, Lightening, Lightening, Madness, Madness, Madness and Madness; Jewelry: Diamond of Almandine, Strength, Lightening, Speed, Tyrells, Ice, Ice, Almandine, Flames, Ice, Almandine, Strength, Muur, Venus, Ice, Agate, Cytorrak, Almandine, Madness, Lannisters, Ice, Flames, Flames, Heft, Flames, Almandine, Tyrells, Almandine, Tyrells, Speed and Lightening.
+******************************
+The match was won by Bob
+******************************
